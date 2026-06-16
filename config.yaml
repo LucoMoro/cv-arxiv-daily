@@ -1,6 +1,6 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "noahfrz"
+user_name: "LucoMoro"
 repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
@@ -22,7 +22,15 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Vulnerability Repair":
-        query: 'all:"vulnerability repair" OR all:"vulnerability fixing" OR all:"repairing vulnerabilities" OR all:"security patch generation" OR all:"automated program repair"'
-    "Patch Validation":
-        query: 'all:"patch validation" OR all:"patch verification" OR all:"patch correctness" OR all:"program repair validation" OR all:"regression test selection"'
+    "Adversarial Attack":
+        query: 'all:"adversarial attack" OR all:"adversarial attacks" OR all:"adversarial example" OR all:"adversarial examples"'
+    "Jailbreak":
+        query: 'all:"jailbreak" OR all:"jailbreaks" OR all:"jailbreaking" OR all:"LLM jailbreak" OR all:"model jailbreak" OR all:"prompt jailbreak"'
+    "Prompt Injection":
+        query: 'all:"prompt injection" OR all:"prompt injections" OR all:"indirect prompt injection" OR all:"direct prompt injection" OR all:"prompt attack"'
+    "Prompt Engineering":
+        query: 'all:"prompt engineering" OR all:"prompt design" OR all:"prompt optimization" OR all:"prompt tuning" OR all:"instruction design"'
+    "Guardrail":
+        query: 'all:"guardrail" OR all:"guardrails" OR all:"AI guardrails" OR all:"model guardrail" OR all:"safety guardrail" OR all:"content filter"'
+    "Red Teaming":
+        query: 'all:"red teaming" OR all:"red-team" OR all:"red teaming evaluation" OR all:"AI red teaming" OR all:"model red teaming"'

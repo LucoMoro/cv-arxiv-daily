@@ -15,8 +15,8 @@ on:
 
 env:
 
-  GITHUB_USER_NAME: noahfrz
-  GITHUB_USER_EMAIL: noah.frontzkowski@tuhh.de
+  GITHUB_USER_NAME: LucoMoro
+  GITHUB_USER_EMAIL: morelli.2000luca@gmail.com
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 permissions:
