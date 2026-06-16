@@ -144,7 +144,7 @@
 |**2026-06-06**|**AeroSpectra Sentinel: An Auditable LLM Prompt-Chaining Decision-Support Workflow for Acute Asthma Risk Assessment from Respiratory Sounds and Clinical Signals**|Aueaphum Aueawatthanaphisut et.al.|[2606.08247](http://arxiv.org/abs/2606.08247)|null|
 |**2026-06-06**|**VATS: Exploiting Implicit Authority in Error-Path Injection via Systematic Mutation**|Harshil Patel et.al.|[2606.07992](http://arxiv.org/abs/2606.07992)|null|
 |**2026-06-05**|**Defending Jailbreak Attacks on Large Language Models via Manifold Trajectory Kinetics**|Hangtao Zhang et.al.|[2606.07335](http://arxiv.org/abs/2606.07335)|null|
-|**2026-06-05**|**SEAM: Shortcut-Aware Real-Time Detection of Scripted vs. Spontaneous Speech for Interview Guardrails**| Vsevolod et.al.|[2606.06837](http://arxiv.org/abs/2606.06837)|null|
+|**2026-06-05**|**SEAM: Shortcut-Aware Real-Time Detection of Scripted vs. Spontaneous Speech for Interview Guardrails**|Vsevolod et.al.|[2606.06837](http://arxiv.org/abs/2606.06837)|null|
 
 <p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
 
