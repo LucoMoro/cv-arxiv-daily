@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.16
+## Updated on 2026.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Adversarial Attack
