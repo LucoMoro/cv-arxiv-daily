@@ -1,4 +1,4 @@
-## Updated on 2026.06.26
+## Updated on 2026.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2026-06-22**|**One Year Later...The Harms Persist, But So Do We!**|Annika Marie Schoene et.al.|[2606.23884](http://arxiv.org/abs/2606.23884)|null|
 |**2026-06-22**|**Are Safety Guarantees in Neural Networks Safe? How to Compute Trustworthy Robustness Certifications**|Merkouris Papamichail et.al.|[2606.23858](http://arxiv.org/abs/2606.23858)|null|
 |**2026-06-24**|**Exposing the Illusion of Erasure in Knowledge Editing for LLMs**|Advik Raj Basani et.al.|[2606.23276](http://arxiv.org/abs/2606.23276)|null|
-|**2026-06-24**|**SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning**| SingGuard Team et.al.|[2606.22873](http://arxiv.org/abs/2606.22873)|null|
+|**2026-06-24**|**SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning**|SingGuard Team et.al.|[2606.22873](http://arxiv.org/abs/2606.22873)|null|
 |**2026-06-22**|**Towards Robust Personalized Federated Learning: Vulnerability Assessment and Defense Co-Design**|Mingyuan Fan et.al.|[2606.22782](http://arxiv.org/abs/2606.22782)|null|
 |**2026-06-21**|**The Scissors Effect: When Resize-Based Input Diversity Helps or Hurts Transfer Attacks**|Yuhang Jiang et.al.|[2606.22516](http://arxiv.org/abs/2606.22516)|null|
 |**2026-06-21**|**Reliability-Guided Adaptive Ensembling for Robust Test-Time Adaptation**|Adam Koziak et.al.|[2606.22351](http://arxiv.org/abs/2606.22351)|null|
@@ -58,7 +58,7 @@
 |**2026-06-09**|**Improving Adversarial Transferability on Vision-Language Pre-training Models via Surrogate-Specific Bias Correction**|Lijia Yu et.al.|[2606.10571](http://arxiv.org/abs/2606.10571)|null|
 |**2026-06-09**|**AgentCanary: A Security Evaluation Framework for Autonomous AI Agents in Real Executable Environments**|Peiyang Li et.al.|[2606.10484](http://arxiv.org/abs/2606.10484)|null|
 
-<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## Jailbreak
 
@@ -105,7 +105,7 @@
 |**2026-06-08**|**Context-Fractured Decomposition Attacks on Tool-Using LLM Agents: Exploiting Artifact Provenance Gaps**|Xiaofeng Lin et.al.|[2606.09084](http://arxiv.org/abs/2606.09084)|null|
 |**2026-06-06**|**Shared Latent Structures Enable Unified Backdoor Detection and Mitigation in LLMs**|Omar Mahmoud et.al.|[2606.07963](http://arxiv.org/abs/2606.07963)|null|
 
-<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## Prompt Injection
 
@@ -152,7 +152,7 @@
 |**2026-06-09**|**Training LLMs to Enforce Multi-Level Instruction Hierarchies via Gravity-Weighted Direct Preference Optimization**|Lena S. Bolliger et.al.|[2606.10860](http://arxiv.org/abs/2606.10860)|null|
 |**2026-06-09**|**Toward Secure LLM Agents: Threat Surfaces, Attacks, Defenses, and Evaluation**|Yuchen Ling et.al.|[2606.10749](http://arxiv.org/abs/2606.10749)|null|
 
-<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -199,7 +199,7 @@
 |**2026-06-10**|**TrajGenAgent: A Hierarchical LLM Agent for Human Mobility Trajectory Generation**|Siyu Li et.al.|[2606.12657](http://arxiv.org/abs/2606.12657)|null|
 |**2026-06-10**|**TAHOE: Text-to-SQL with Automated Hint Optimization from Experience**|Zhiyi Chen et.al.|[2606.12387](http://arxiv.org/abs/2606.12387)|null|
 
-<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## Guardrail
 
@@ -217,7 +217,7 @@
 |**2026-06-23**|**PHANTOM: A Large-Scale Dataset of Multimodal Adversarial Attacks for Vision-Language Models**|Simone Gallivanone et.al.|[2606.24388](http://arxiv.org/abs/2606.24388)|null|
 |**2026-06-22**|**Regenerative Bonds: Formal Debt, Mutual-Aid, and Local Settlement Capacity**|William O. Ruddick et.al.|[2606.23922](http://arxiv.org/abs/2606.23922)|null|
 |**2026-06-22**|**Measuring & Mitigating Over-Alignment for LLMs in Multilingual Criminal Law Courts**|Arthur Wuhrmann et.al.|[2606.23375](http://arxiv.org/abs/2606.23375)|null|
-|**2026-06-24**|**SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning**| SingGuard Team et.al.|[2606.22873](http://arxiv.org/abs/2606.22873)|null|
+|**2026-06-24**|**SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning**|SingGuard Team et.al.|[2606.22873](http://arxiv.org/abs/2606.22873)|null|
 |**2026-06-22**|**IndicGuard: A Multilingual Safety Guard Model and Dataset for Indic Languages**|Parth Bramhecha et.al.|[2606.22841](http://arxiv.org/abs/2606.22841)|null|
 |**2026-06-21**|**The Geometry of Refusal: Linear Instability in Safety-Aligned LLMs**|Shivam Ratnakar et.al.|[2606.22686](http://arxiv.org/abs/2606.22686)|null|
 |**2026-06-21**|**AgentLens: Interpretable Safety Steering via Mechanistic Subspaces for Multi-Turn Coding Agent**|Weidi Luo et.al.|[2606.22673](http://arxiv.org/abs/2606.22673)|null|
@@ -246,7 +246,7 @@
 |**2026-06-05**|**Defending Jailbreak Attacks on Large Language Models via Manifold Trajectory Kinetics**|Hangtao Zhang et.al.|[2606.07335](http://arxiv.org/abs/2606.07335)|null|
 |**2026-06-05**|**SEAM: Shortcut-Aware Real-Time Detection of Scripted vs. Spontaneous Speech for Interview Guardrails**|Vsevolod et.al.|[2606.06837](http://arxiv.org/abs/2606.06837)|null|
 
-<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## Red Teaming
 
@@ -289,7 +289,7 @@
 |**2026-06-01**|**CANARY: Zero-Label Detection of Fine-Tuning Contamination in Language Models**|Swapnil Parekh et.al.|[2606.01695](http://arxiv.org/abs/2606.01695)|null|
 |**2026-05-30**|**Cross-Generational Transfer of Adversarial Attacks Reveals Non-Monotonic Safety Alignment in LLMs**|Subhadip Mitra et.al.|[2606.00813](http://arxiv.org/abs/2606.00813)|null|
 
-<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

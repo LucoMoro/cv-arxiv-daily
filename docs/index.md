@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.26
+## Updated on 2026.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Adversarial Attack
@@ -17,7 +17,7 @@ layout: default
 |**2026-06-22**|**One Year Later...The Harms Persist, But So Do We!**|Annika Marie Schoene et.al.|[2606.23884](http://arxiv.org/abs/2606.23884)|null|
 |**2026-06-22**|**Are Safety Guarantees in Neural Networks Safe? How to Compute Trustworthy Robustness Certifications**|Merkouris Papamichail et.al.|[2606.23858](http://arxiv.org/abs/2606.23858)|null|
 |**2026-06-24**|**Exposing the Illusion of Erasure in Knowledge Editing for LLMs**|Advik Raj Basani et.al.|[2606.23276](http://arxiv.org/abs/2606.23276)|null|
-|**2026-06-24**|**SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning**| SingGuard Team et.al.|[2606.22873](http://arxiv.org/abs/2606.22873)|null|
+|**2026-06-24**|**SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning**|SingGuard Team et.al.|[2606.22873](http://arxiv.org/abs/2606.22873)|null|
 |**2026-06-22**|**Towards Robust Personalized Federated Learning: Vulnerability Assessment and Defense Co-Design**|Mingyuan Fan et.al.|[2606.22782](http://arxiv.org/abs/2606.22782)|null|
 |**2026-06-21**|**The Scissors Effect: When Resize-Based Input Diversity Helps or Hurts Transfer Attacks**|Yuhang Jiang et.al.|[2606.22516](http://arxiv.org/abs/2606.22516)|null|
 |**2026-06-21**|**Reliability-Guided Adaptive Ensembling for Robust Test-Time Adaptation**|Adam Koziak et.al.|[2606.22351](http://arxiv.org/abs/2606.22351)|null|
@@ -201,7 +201,7 @@ layout: default
 |**2026-06-23**|**PHANTOM: A Large-Scale Dataset of Multimodal Adversarial Attacks for Vision-Language Models**|Simone Gallivanone et.al.|[2606.24388](http://arxiv.org/abs/2606.24388)|null|
 |**2026-06-22**|**Regenerative Bonds: Formal Debt, Mutual-Aid, and Local Settlement Capacity**|William O. Ruddick et.al.|[2606.23922](http://arxiv.org/abs/2606.23922)|null|
 |**2026-06-22**|**Measuring & Mitigating Over-Alignment for LLMs in Multilingual Criminal Law Courts**|Arthur Wuhrmann et.al.|[2606.23375](http://arxiv.org/abs/2606.23375)|null|
-|**2026-06-24**|**SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning**| SingGuard Team et.al.|[2606.22873](http://arxiv.org/abs/2606.22873)|null|
+|**2026-06-24**|**SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning**|SingGuard Team et.al.|[2606.22873](http://arxiv.org/abs/2606.22873)|null|
 |**2026-06-22**|**IndicGuard: A Multilingual Safety Guard Model and Dataset for Indic Languages**|Parth Bramhecha et.al.|[2606.22841](http://arxiv.org/abs/2606.22841)|null|
 |**2026-06-21**|**The Geometry of Refusal: Linear Instability in Safety-Aligned LLMs**|Shivam Ratnakar et.al.|[2606.22686](http://arxiv.org/abs/2606.22686)|null|
 |**2026-06-21**|**AgentLens: Interpretable Safety Steering via Mechanistic Subspaces for Multi-Turn Coding Agent**|Weidi Luo et.al.|[2606.22673](http://arxiv.org/abs/2606.22673)|null|
