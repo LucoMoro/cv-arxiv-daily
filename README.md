@@ -1,4 +1,4 @@
-## Updated on 2026.08.10
+## Updated on 2026.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -58,7 +58,7 @@
 |**2026-06-09**|**Improving Adversarial Transferability on Vision-Language Pre-training Models via Surrogate-Specific Bias Correction**|Lijia Yu et.al.|[2606.10571](http://arxiv.org/abs/2606.10571)|null|
 |**2026-06-09**|**AgentCanary: A Security Evaluation Framework for Autonomous AI Agents in Real Executable Environments**|Peiyang Li et.al.|[2606.10484](http://arxiv.org/abs/2606.10484)|null|
 
-<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
 
 ## Jailbreak
 
@@ -105,7 +105,7 @@
 |**2026-06-08**|**Context-Fractured Decomposition Attacks on Tool-Using LLM Agents: Exploiting Artifact Provenance Gaps**|Xiaofeng Lin et.al.|[2606.09084](http://arxiv.org/abs/2606.09084)|null|
 |**2026-06-06**|**Shared Latent Structures Enable Unified Backdoor Detection and Mitigation in LLMs**|Omar Mahmoud et.al.|[2606.07963](http://arxiv.org/abs/2606.07963)|null|
 
-<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
 
 ## Prompt Injection
 
@@ -152,7 +152,7 @@
 |**2026-06-09**|**Training LLMs to Enforce Multi-Level Instruction Hierarchies via Gravity-Weighted Direct Preference Optimization**|Lena S. Bolliger et.al.|[2606.10860](http://arxiv.org/abs/2606.10860)|null|
 |**2026-06-09**|**Toward Secure LLM Agents: Threat Surfaces, Attacks, Defenses, and Evaluation**|Yuchen Ling et.al.|[2606.10749](http://arxiv.org/abs/2606.10749)|null|
 
-<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
 
 ## Prompt Engineering
 
@@ -199,7 +199,7 @@
 |**2026-06-10**|**TrajGenAgent: A Hierarchical LLM Agent for Human Mobility Trajectory Generation**|Siyu Li et.al.|[2606.12657](http://arxiv.org/abs/2606.12657)|null|
 |**2026-06-10**|**TAHOE: Text-to-SQL with Automated Hint Optimization from Experience**|Zhiyi Chen et.al.|[2606.12387](http://arxiv.org/abs/2606.12387)|null|
 
-<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
 
 ## Guardrail
 
@@ -246,7 +246,7 @@
 |**2026-06-05**|**Defending Jailbreak Attacks on Large Language Models via Manifold Trajectory Kinetics**|Hangtao Zhang et.al.|[2606.07335](http://arxiv.org/abs/2606.07335)|null|
 |**2026-06-05**|**SEAM: Shortcut-Aware Real-Time Detection of Scripted vs. Spontaneous Speech for Interview Guardrails**|Vsevolod et.al.|[2606.06837](http://arxiv.org/abs/2606.06837)|null|
 
-<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
 
 ## Red Teaming
 
@@ -289,7 +289,7 @@
 |**2026-06-01**|**CANARY: Zero-Label Detection of Fine-Tuning Contamination in Language Models**|Swapnil Parekh et.al.|[2606.01695](http://arxiv.org/abs/2606.01695)|null|
 |**2026-05-30**|**Cross-Generational Transfer of Adversarial Attacks Reveals Non-Monotonic Safety Alignment in LLMs**|Subhadip Mitra et.al.|[2606.00813](http://arxiv.org/abs/2606.00813)|null|
 
-<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
