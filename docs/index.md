@@ -2,13 +2,25 @@
 layout: default
 ---
 
-## Updated on 2026.11.02
+## Updated on 2026.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Adversarial Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**RLGPA: A Reinforcement Learning-Guided Granularity Planning Attack for Decision-Based Sparse Adversarial Examples**|Chao Zhou et.al.|[2611.07512](http://arxiv.org/abs/2611.07512)|null|
+|**2026-11-05**|**Adversarial Robustness of Kernel Machines: A Comprehensive Analysis**|Rahul Kumar Yadav et.al.|[2611.07474](http://arxiv.org/abs/2611.07474)|null|
+|**2026-11-05**|**VIPA: View-Invariant Projector-Based Adversarial Attack**|Jiyu Han et.al.|[2611.07443](http://arxiv.org/abs/2611.07443)|null|
+|**2026-11-03**|**Grounded but Not Immune: Confirmation Bias in Agent-as-a-judge**|Drake Benjamin Brown et.al.|[2611.05662](http://arxiv.org/abs/2611.05662)|null|
+|**2026-11-03**|**Detector-Guided Vocoder Training for Adversarial Text-to-Speech Synthesis**|Jiayan Cui et.al.|[2611.04511](http://arxiv.org/abs/2611.04511)|null|
+|**2026-11-03**|**From Guidelines to Practice: Defining Requirements for AI Red-Teaming Tools**|Gia Phong Tran et.al.|[2611.04271](http://arxiv.org/abs/2611.04271)|null|
+|**2026-11-03**|**RGDM: Robust Graph Diffusion Model**|Yancheng Wang et.al.|[2611.04146](http://arxiv.org/abs/2611.04146)|null|
+|**2026-11-02**|**The Web Doesn't Sit Still: Adversarial Self-Evolving Attacks on Search Agents**|Geyuan Wang et.al.|[2611.03754](http://arxiv.org/abs/2611.03754)|null|
+|**2026-11-02**|**Detect, Repair and Audit: A Hierarchical Multi-Agent Defense Against Adversarial Attacks in Energy Forecasting**|Zewei Shi et.al.|[2611.02310](http://arxiv.org/abs/2611.02310)|null|
+|**2026-11-01**|**Black-Box Adversarial Example Attacks on Machine Learning based Election Systems**|Subek Acharya et.al.|[2611.02166](http://arxiv.org/abs/2611.02166)|null|
+|**2026-10-30**|**Safety Verification for Voltage Control in Inverter Dominated Radial Distribution Networks under Actuator and Sensor Adversarial Attacks**|Georgios Pantazis et.al.|[2610.41910](http://arxiv.org/abs/2610.41910)|null|
+|**2026-10-30**|**Exploring Bad Minima in Transfer Learning**|Mina Remeli et.al.|[2610.41807](http://arxiv.org/abs/2610.41807)|null|
 |**2026-10-29**|**Textual Response-Aware Guidance for Zero-Shot Adversarial Robustness of Vision-Language Models**|Yubo Cui et.al.|[2610.40309](http://arxiv.org/abs/2610.40309)|null|
 |**2026-10-29**|**LiDAR-SHIELD: A Fully Dockerized Adversarial Robustness Assessment Framework for LiDAR-Based 3D Perception Models**|Alexandros Gkillas et.al.|[2610.39848](http://arxiv.org/abs/2610.39848)|null|
 |**2026-10-28**|**FlipJev: Fast Black-Box Red Teaming Finds Universal Adversarial Suffixes for Typed Decision Models**|Xiaogeng Liu et.al.|[2610.38895](http://arxiv.org/abs/2610.38895)|null|
@@ -74,7 +86,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-29**|**Systematic Evaluation of Adversarial Jailbreaking Attacks and Defenses Across Seven Large Language Models**|Md. Robiul Islam Niloy et.al.|[2610.39509](http://arxiv.org/abs/2610.39509)|null|
+|**2026-11-05**|**"Blind Compliance": Coercive Control in AI Jailbreaking**|Acacia L. Ackles et.al.|[2611.08226](http://arxiv.org/abs/2611.08226)|null|
+|**2026-11-05**|**JailBound: FOL-Guided Jailbreak Evaluation for Exploring LLM Behavioral Boundaries**|Fazong Wu et.al.|[2611.07530](http://arxiv.org/abs/2611.07530)|null|
+|**2026-11-04**|**Addition by Subtraction: Toward Mitigating Fragile Safety Alignment in Large Language Models**|Hamid Dashtbani et.al.|[2611.06553](http://arxiv.org/abs/2611.06553)|null|
+|**2026-11-04**|**SafeStart: Mitigating the Overlooked Safety Cost of Active Expert Reduction in MoE LLM Serving**|Erfan Baghaei Potraghloo et.al.|[2611.06147](http://arxiv.org/abs/2611.06147)|null|
+|**2026-11-04**|**TraceRouter++: Causal Semantic Routing Realignment via Optimal Transport**|Chuancheng Shi et.al.|[2611.04878](http://arxiv.org/abs/2611.04878)|null|
+|**2026-11-03**|**BrainwashedLLM: Jailbreaking via Automated Adversarial Chain of Thoughts Discovery**|Masoud Poorghaffar Aghdam et.al.|[2611.04717](http://arxiv.org/abs/2611.04717)|null|
+|**2026-11-03**|**From Guidelines to Practice: Defining Requirements for AI Red-Teaming Tools**|Gia Phong Tran et.al.|[2611.04271](http://arxiv.org/abs/2611.04271)|null|
+|**2026-11-02**|**VagueBench: Benchmarking the Robustness of Embodied Agents on Ambient Context Illusions**|Yang Qu et.al.|[2611.03765](http://arxiv.org/abs/2611.03765)|null|
+|**2026-11-02**|**VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably**|Wei-Lin Chen et.al.|[2611.03575](http://arxiv.org/abs/2611.03575)|null|
+|**2026-11-03**|**PGuard: A Native, Streaming, and Plug-in Guardrail for Multimodal Large Language Models**|Junyu Lin et.al.|[2611.02791](http://arxiv.org/abs/2611.02791)|null|
+|**2026-11-01**|**HaloGuard 2.0: An Open-Weights Constitutional Output Guard for Multilingual Response Safety**|Ashmiya Lenin et.al.|[2611.02134](http://arxiv.org/abs/2611.02134)|null|
+|**2026-10-31**|**J-Anchor: Defending Against Prefill Attacks via J-Space Selective Refusal Restoration**|Running Yang et.al.|[2611.01342](http://arxiv.org/abs/2611.01342)|null|
+|**2026-10-30**|**Circuit Oracle: Automating Attribution Graph Analysis via Natural-Language Queries**|Shariar Kabir et.al.|[2611.00420](http://arxiv.org/abs/2611.00420)|null|
+|**2026-10-29**|**CoFiBreak: A Coarse-to-Fine Diversity Reward for Effective Multi-Turn Jailbreak**|Jialin Song et.al.|[2610.40926](http://arxiv.org/abs/2610.40926)|null|
+|**2026-11-03**|**ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks**|Ayana Hussain et.al.|[2610.40890](http://arxiv.org/abs/2610.40890)|null|
+|**2026-11-05**|**Systematic Evaluation of Adversarial Jailbreaking Attacks and Defenses Across Seven Large Language Models**|Md. Robiul Islam Niloy et.al.|[2610.39509](http://arxiv.org/abs/2610.39509)|null|
 |**2026-10-28**|**Discovering Jailbreaks via Curriculum of Models**|Michał Burzyński et.al.|[2610.38833](http://arxiv.org/abs/2610.38833)|null|
 |**2026-10-28**|**Rethinking LLM Jailbreak Evaluation: Continuous Risk Landscapes Beyond Binary Outcomes**|Yukai Zhou et.al.|[2610.38595](http://arxiv.org/abs/2610.38595)|null|
 |**2026-10-28**|**Jailbreak Connectivity: Towards Diverse, Transferable, and Universal Multimodal Large Language Model Jailbreak**|Xu Zhang et.al.|[2610.38091](http://arxiv.org/abs/2610.38091)|null|
@@ -139,6 +166,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI**|Julian Kunkel et.al.|[2611.08428](http://arxiv.org/abs/2611.08428)|null|
+|**2026-11-05**|**Beyond Instruction Override: Benchmarking Indirect Prompt Injection with Task-Tampering Attacks**|Rongting Zhang et.al.|[2611.07640](http://arxiv.org/abs/2611.07640)|null|
+|**2026-11-04**|**SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection**|Woosang Lim et.al.|[2611.07222](http://arxiv.org/abs/2611.07222)|null|
+|**2026-11-04**|**SecureGARD: Dynamic Ontology-Guided Governance for Secure Tool-Using LLM Agents**|Guoqin Xiong et.al.|[2611.06682](http://arxiv.org/abs/2611.06682)|null|
+|**2026-11-04**|**Securing Web Agents with the Compile-Then-Execute Paradigm**|Annabella Chow et.al.|[2611.06039](http://arxiv.org/abs/2611.06039)|null|
+|**2026-11-04**|**ScamWorld: An Interactive Environment for Evaluating Web Agents Against Online Fraud**|Yutao Wu et.al.|[2611.04879](http://arxiv.org/abs/2611.04879)|null|
+|**2026-11-03**|**Right Tool, Wrong Parameters: Defending LLM Agents Against Parameter Poisoning**|Yao Wang et.al.|[2611.04673](http://arxiv.org/abs/2611.04673)|null|
+|**2026-11-03**|**The Devil is in the Context: Nine Dimensions of Prompt Injection Attacks**|Jiamin Chang et.al.|[2611.04672](http://arxiv.org/abs/2611.04672)|null|
+|**2026-11-03**|**From Guidelines to Practice: Defining Requirements for AI Red-Teaming Tools**|Gia Phong Tran et.al.|[2611.04271](http://arxiv.org/abs/2611.04271)|null|
+|**2026-11-02**|**ATrust: Adaptive Trust Boundary Expansion for Securing LLM Agents**|Xu Zhang et.al.|[2611.02741](http://arxiv.org/abs/2611.02741)|null|
+|**2026-11-02**|**SearchInject: Retrieval Exposure Control for Indirect Prompt Injection in Language-Model Search**|Kainan Zhou et.al.|[2611.02643](http://arxiv.org/abs/2611.02643)|null|
+|**2026-11-02**|**Where Does MCP Security End? A Three-Tier Mitigation Mapping Framework for the OWASP MCP Top 10**|Christopher Krakauer et.al.|[2611.02611](http://arxiv.org/abs/2611.02611)|null|
+|**2026-11-02**|**StateFence: Task-State Protection Against Evidence-Chain Contamination in Blue-Team LLM Agents**|Haowen Dai et.al.|[2611.02605](http://arxiv.org/abs/2611.02605)|null|
+|**2026-11-02**|**Ranked but Not Stopped: Detecting Prompt-Injection Hijacks from Typed Decision Models' Output Probabilities**|Junwei Yao et.al.|[2611.02522](http://arxiv.org/abs/2611.02522)|null|
+|**2026-11-02**|**Benchmark of THReD: Evaluating an LLM Agent and Its Preprocessing Tools for Turning Electronic Health Records into AI-Ready Datasets**|Javad Mohammad Alizadeh et.al.|[2611.02484](http://arxiv.org/abs/2611.02484)|null|
+|**2026-11-02**|**LEANGUARD: Lean-Verified Guardrails for Tool-Using Agents**|Sreehari Sankar et.al.|[2611.02332](http://arxiv.org/abs/2611.02332)|null|
+|**2026-11-01**|**Beyond Prompt Injection: The Tool Update Gap in LLM Agent Security**|Shiyu Kan et.al.|[2611.01976](http://arxiv.org/abs/2611.01976)|null|
+|**2026-11-01**|**MemHarmBench: Evaluating Cross-Session Prompt Injection in Memory-Persistent AI Agents**|Zhihua Wang et.al.|[2611.01700](http://arxiv.org/abs/2611.01700)|null|
+|**2026-10-31**|**AgentCap: Capability-Based Runtime Authorization for Secure LLM Agent Execution**|Aravinda Kashyap Kabbinamakki Suresh et.al.|[2611.00729](http://arxiv.org/abs/2611.00729)|null|
+|**2026-10-31**|**The Long Con on the Web: Earn-then-Exploit Fraud Attacks against Coding Agents**|Xingling Xu et.al.|[2611.00725](http://arxiv.org/abs/2611.00725)|null|
 |**2026-10-29**|**Understanding and Mitigating Role Spoofing in LLMs**|Ezra Edelman et.al.|[2610.40396](http://arxiv.org/abs/2610.40396)|null|
 |**2026-10-29**|**SEAL: Sealed Queries for Local Sanitization against Indirect Prompt Injection**|Doohyun Kim et.al.|[2610.39758](http://arxiv.org/abs/2610.39758)|null|
 |**2026-10-29**|**Red-Teaming Large Language Models in Low-Resource African Languages: A Case Study of Yoruba and Nigerian Pidgin**|Paula Chikaodinaka Anyanwu et.al.|[2610.39590](http://arxiv.org/abs/2610.39590)|null|
@@ -204,7 +251,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-29**|**M-PFT: Angular Margin for Calibrated Prompt-Tuning of Fine-Tuned Vision-Language Models**|Shihab Aaqil Ahamed et.al.|[2610.39861](http://arxiv.org/abs/2610.39861)|null|
+|**2026-11-05**|**LABBA: LLM-Assisted Behavioral Biometric Authentication**|Howard Halim et.al.|[2611.08343](http://arxiv.org/abs/2611.08343)|null|
+|**2026-11-05**|**Don't Prompt Your Agents. Equip Them: Skillware as a Modular Standard for Sovereign, Auditable, and Deterministic Capability Execution for Logical Systems**|Vladimiros Peilivanidis et.al.|[2611.07652](http://arxiv.org/abs/2611.07652)|null|
+|**2026-11-04**|**Adapting LLM Judges to Observed Human Annotation Policy through Soft Prompt Tuning**|Tamás Janusko et.al.|[2611.07126](http://arxiv.org/abs/2611.07126)|null|
+|**2026-11-04**|**PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems**|Sven Kleinkop et.al.|[2611.07123](http://arxiv.org/abs/2611.07123)|null|
+|**2026-11-04**|**SD-LoRA: Training-Time Structural Distillation into LoRA for Few-Shot Vision-Language Adaptation**|Mohammed Rahman Sherif Khan Mohammad et.al.|[2611.07063](http://arxiv.org/abs/2611.07063)|null|
+|**2026-11-04**|**From Vision to Context: A Review of Prompt-Driven Target Volume Segmentation in Radiotherapy**|Bakpen Kombat et.al.|[2611.06570](http://arxiv.org/abs/2611.06570)|null|
+|**2026-11-03**|**False Reassurance in LLM Severe-Weather Guidance: A Replayable Evaluation Against Real NWS Alerts**|Kadharmoideen Fadurudeen et.al.|[2611.05290](http://arxiv.org/abs/2611.05290)|null|
+|**2026-11-03**|**DSL-Bench: Evaluating and Explaining LLM Code Generation Across Domain-Specific Languages**|Zihan Zhou et.al.|[2611.05168](http://arxiv.org/abs/2611.05168)|null|
+|**2026-11-03**|**BrainwashedLLM: Jailbreaking via Automated Adversarial Chain of Thoughts Discovery**|Masoud Poorghaffar Aghdam et.al.|[2611.04717](http://arxiv.org/abs/2611.04717)|null|
+|**2026-11-03**|**Beyond Fine-Tuning: Evaluating Prompt Engineering and Prompt Tuning for Roman Urdu Hate Speech Detection**|Toneema Zubair et.al.|[2611.04342](http://arxiv.org/abs/2611.04342)|null|
+|**2026-11-03**|**IntentGEO: Intent-aware Generative Engine Optimization for Recommendation**|Runlin Lei et.al.|[2611.04225](http://arxiv.org/abs/2611.04225)|null|
+|**2026-11-02**|**Flat Features, Detailed Images? Simple Detail Control for Diffusion Transformers**|Qingtao Yu et.al.|[2611.02551](http://arxiv.org/abs/2611.02551)|null|
+|**2026-11-02**|**Mixed-Type Relational Database Synthesis with Graph-Prompted Language Model**|Yuxiang Sun et.al.|[2611.02373](http://arxiv.org/abs/2611.02373)|null|
+|**2026-11-01**|**Towards Self-Evolving Narrative Systems: Real-Time Adaptation and Long-Term Optimization with LLMs**|Ruisheng Sun et.al.|[2611.01954](http://arxiv.org/abs/2611.01954)|null|
+|**2026-11-01**|**StateGate: A Behavioral-Fidelity Prompt Optimization Method for Long-Chain LLM Agents**|Shicheng Huang et.al.|[2611.01585](http://arxiv.org/abs/2611.01585)|null|
+|**2026-10-31**|**Compile as Hypothesis: A Headroom Typology for Prompt Optimization on Real Reasoning Models**|Zhengshuai Yang et.al.|[2611.01135](http://arxiv.org/abs/2611.01135)|null|
+|**2026-11-03**|**M-PFT: Angular Margin for Calibrated Prompt-Tuning of Fine-Tuned Vision-Language Models**|Shihab Aaqil Ahamed et.al.|[2610.39861](http://arxiv.org/abs/2610.39861)|null|
 |**2026-10-27**|**PromptSense: Sentiment-Aware Mental Health Chatbot with Dynamic Prompting**|Sugi Lee et.al.|[2610.38044](http://arxiv.org/abs/2610.38044)|null|
 |**2026-10-27**|**GEPA-Curator: Curated Learning for Self Improving Agents**|Zack Yu et.al.|[2610.37651](http://arxiv.org/abs/2610.37651)|null|
 |**2026-10-27**|**Zero-Shot Multimodal Event Spotting in Soccer Broadcasts**|Sadia Kamal et.al.|[2610.37583](http://arxiv.org/abs/2610.37583)|null|
@@ -269,6 +332,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**"Blind Compliance": Coercive Control in AI Jailbreaking**|Acacia L. Ackles et.al.|[2611.08226](http://arxiv.org/abs/2611.08226)|null|
+|**2026-11-05**|**Building Barricades: Red-Teaming Agentic Biosynthesis Planning**|Nicholas Roehner et.al.|[2611.08218](http://arxiv.org/abs/2611.08218)|null|
+|**2026-11-04**|**Airlock: Bounding the Multi-Agent Blast Radius via Selective Online Containment**|Zhonghao Zhan et.al.|[2611.06727](http://arxiv.org/abs/2611.06727)|null|
+|**2026-11-04**|**Fingerprinting the Dispatchers behind Distributed Model Extraction**|Snigdha Chandan Khilar et.al.|[2611.06661](http://arxiv.org/abs/2611.06661)|null|
+|**2026-11-03**|**Whose Guardrail? User Identity Shapes the Effectiveness of Model Disclaimers in Mitigating LLM Political Persuasion**|Jillian Fisher et.al.|[2611.05347](http://arxiv.org/abs/2611.05347)|null|
+|**2026-11-03**|**Knowingly Wrong: Training LLMs Against Their Own Beliefs can Induce Misalignment**|Ariana M. Villegas-Suarez et.al.|[2611.05287](http://arxiv.org/abs/2611.05287)|null|
+|**2026-11-03**|**Extracting System Prompt of LLM Services in Complex (Agentic) Settings: Hierarchical Optimization and Reliable Evaluation Metrics**|Shuaidong Li et.al.|[2611.04803](http://arxiv.org/abs/2611.04803)|null|
+|**2026-11-03**|**Say Less, Mean Better: Training-Free Verbosity Control for Language Models**|Mahmoud Alyosify et.al.|[2611.04107](http://arxiv.org/abs/2611.04107)|null|
+|**2026-11-02**|**Optimize the Harness, Not the Model: Fitting a Minimal Agent to a Self-Hostable LLM for Investigative Analysis**|Shai Nahum Gefen et.al.|[2611.03434](http://arxiv.org/abs/2611.03434)|null|
+|**2026-11-02**|**Predictive Safety Guardrails Do Not Always Make LLM Agents Safer**|Weixiang Zhao et.al.|[2611.02815](http://arxiv.org/abs/2611.02815)|null|
+|**2026-11-03**|**PGuard: A Native, Streaming, and Plug-in Guardrail for Multimodal Large Language Models**|Junyu Lin et.al.|[2611.02791](http://arxiv.org/abs/2611.02791)|null|
+|**2026-11-02**|**Cumulative and Audited Guardrail Tool Evolution for LLM Agent Safety**|Xiao Yang et.al.|[2611.02516](http://arxiv.org/abs/2611.02516)|null|
+|**2026-11-02**|**LEANGUARD: Lean-Verified Guardrails for Tool-Using Agents**|Sreehari Sankar et.al.|[2611.02332](http://arxiv.org/abs/2611.02332)|null|
+|**2026-10-31**|**Accuracy Is Not Risk: Why Medical AI Should Not Report Only Its Most Likely Label**|Jeffrey Humpherys et.al.|[2611.01312](http://arxiv.org/abs/2611.01312)|null|
+|**2026-10-31**|**S1CogBench: What System One Decision Models Can and Cannot Do on Cognitive Experiments**|Dengzhe Hou et.al.|[2611.00911](http://arxiv.org/abs/2611.00911)|null|
+|**2026-10-30**|**TADA: Technology Aware DNN Accelerator Performance and Energy Estimator**|Tanvi Sharma et.al.|[2611.00292](http://arxiv.org/abs/2611.00292)|null|
+|**2026-10-29**|**Nedimo: An Evidence-Grounded Multilingual Pipeline for AI-Generated Sleep Stories**|Georgios Makridis et.al.|[2610.40970](http://arxiv.org/abs/2610.40970)|null|
+|**2026-10-29**|**"Shall We Approve?" Consequence-Aware Approval for Autonomous Coding Agents**|Weiheng Wu et.al.|[2610.40753](http://arxiv.org/abs/2610.40753)|null|
 |**2026-10-29**|**Agentic process evidence**|Yuval Kainan et.al.|[2610.40071](http://arxiv.org/abs/2610.40071)|null|
 |**2026-10-29**|**Hybrid AI Patterns: Thirteen Ways to Couple Language Models with Rules, and How to Choose Among Them**|Siegfried Handschuh et.al.|[2610.40036](http://arxiv.org/abs/2610.40036)|null|
 |**2026-10-27**|**Follow the Gradient: Tracing Safety Degradation Back to Training Data**|Saket Reddy et.al.|[2610.37481](http://arxiv.org/abs/2610.37481)|null|
@@ -334,6 +415,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks**|E. Kelly Buchanan et.al.|[2611.08417](http://arxiv.org/abs/2611.08417)|null|
+|**2026-11-05**|**Multimodal-SEA: Benchmarking AI Agent Security under Multimodal Social Engineering Attacks**|Zhitao He et.al.|[2611.08281](http://arxiv.org/abs/2611.08281)|null|
+|**2026-11-05**|**Building Barricades: Red-Teaming Agentic Biosynthesis Planning**|Nicholas Roehner et.al.|[2611.08218](http://arxiv.org/abs/2611.08218)|null|
+|**2026-11-05**|**Stress Testing Chain-of-Thought Monitoring Against Covert Misalignment**|Yao Huang et.al.|[2611.07586](http://arxiv.org/abs/2611.07586)|null|
+|**2026-11-03**|**CloakFEM: Agentic FEM Code Generation for Red-Teaming Computational Resource Exhaustion**|Li Zheng et.al.|[2611.04356](http://arxiv.org/abs/2611.04356)|null|
+|**2026-11-03**|**From Guidelines to Practice: Defining Requirements for AI Red-Teaming Tools**|Gia Phong Tran et.al.|[2611.04271](http://arxiv.org/abs/2611.04271)|null|
+|**2026-11-01**|**HaloGuard 2.0: An Open-Weights Constitutional Output Guard for Multilingual Response Safety**|Ashmiya Lenin et.al.|[2611.02134](http://arxiv.org/abs/2611.02134)|null|
+|**2026-10-30**|**On the Framing Effect of AI Red-Teaming Instructions: Evidence from Prior Exercises and Controlled Simulations**|Michael Feffer et.al.|[2611.00412](http://arxiv.org/abs/2611.00412)|null|
+|**2026-10-30**|**ANGLER: Verifier-Grounded Benchmarking with an Adaptive Attacker for Web Agents**|Yini Huang et.al.|[2610.41272](http://arxiv.org/abs/2610.41272)|null|
+|**2026-10-29**|**CoFiBreak: A Coarse-to-Fine Diversity Reward for Effective Multi-Turn Jailbreak**|Jialin Song et.al.|[2610.40926](http://arxiv.org/abs/2610.40926)|null|
 |**2026-10-29**|**Red-Teaming Large Language Models in Low-Resource African Languages: A Case Study of Yoruba and Nigerian Pidgin**|Paula Chikaodinaka Anyanwu et.al.|[2610.39590](http://arxiv.org/abs/2610.39590)|null|
 |**2026-10-28**|**FlipJev: Fast Black-Box Red Teaming Finds Universal Adversarial Suffixes for Typed Decision Models**|Xiaogeng Liu et.al.|[2610.38895](http://arxiv.org/abs/2610.38895)|null|
 |**2026-10-28**|**Value Probes: Learned Value Functions for Beam-Search Red Teaming**|Jonathan F. Jao et.al.|[2610.38526](http://arxiv.org/abs/2610.38526)|null|
